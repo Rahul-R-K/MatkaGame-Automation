@@ -1,0 +1,42 @@
+Result:
+    id = Matka-Cards-0
+    id = Matka-Cards-1
+    id = Matka-Cards-2
+    class = total_val
+
+
+Bet Placing:
+
+Main area :
+
+Single - (//div[contains(text(),'Single')])
+SP - (//div[contains(text(),'SP')])[1]
+DP - (//div[contains(text(),'DP')])[1]
+Trio - (//div[contains(text(),'Trio')])[1]
+commonSP - (//div[contains(text(),'Common SP')])
+common DP - (//div[contains(text(),'Common DP')])
+
+Sub Area:
+Single-
+
+1 - (//div[contains(text(),'1')])[1]
+2- (//div[contains(text(),'2')])[6]
+3- (//div[contains(text(),'3')])[3]
+4 - (//div[contains(text(),'4')])[2]
+5 - (//div[contains(text(),'5')])[6]
+6 - (//div[contains(text(),'6')])[2]
+7 - (//div[contains(text(),'7')])[3]
+8 - (//div[contains(text(),'8')])[2]
+9 - (//div[contains(text(),'9')])[13]
+0 - (//div[contains(text(),'9.5')])[10]
+Low - (//div[contains(text(),'Low | 1.95')])
+High - (//div[contains(text(),'High | 1.95')])
+Odd - (//div[contains(text(),'Odd | 1.95')])
+Even - (//div[contains(text(),'Even | 1.95')])
+
+
+
+
+
+
+
